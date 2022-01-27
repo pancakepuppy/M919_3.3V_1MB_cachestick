@@ -32,3 +32,5 @@ Bill of materials only has 3 different parts on it:
 If you're experienced at hand soldering, the module is buildable this way (that's how I've built mine so far!)
 
 I've been testing the module design with a 5x86-P75 (133MHz) at fastest L2 and DRAM settings and it has been very stable, running a number of DOS and Win95 benchmarks and tests (such as Quake, Doom, cachechk, Winstone 96, CPUmark99, Super PI) with no issues. 
+
+If you want to have boards made with JLCPCB, upload the "UPLOAD_THIS_ZIP.zip" file in the /plotted_JLCsettings/ directory. It has the gerbers and drill files with their recommended plotting settings. Otherwise, plot however your board house recommends!
